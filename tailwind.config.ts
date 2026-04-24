@@ -48,4 +48,20 @@ const config: Config = {
         xl: ['1.25rem', { lineHeight: '1.5' }],
         '2xl': ['1.5rem', { lineHeight: '1.35' }],
         '3xl': ['1.875rem', { lineHeight: '1.2' }],
-        '4xl': ['2.5rem', { lineHeight: '1.1', letterSpacing: '-0
+        '4xl': ['2.5rem', { lineHeight: '1.1', letterSpacing: '-0.01em' }],
+        '5xl': ['3.25rem', { lineHeight: '1.05', letterSpacing: '-0.015em' }],
+        '6xl': ['4rem', { lineHeight: '1.0', letterSpacing: '-0.02em' }],
+        '7xl': ['5rem', { lineHeight: '0.95', letterSpacing: '-0.025em' }]
+      },
+      letterSpacing: {
+        micro: '0.12em'
+      },
+      transitionTimingFunction: {
+        editorial: 'cubic-bezier(0.22, 1, 0.36, 1)'
+      }
+    }
+  },
+  plugins: []
+};
+
+export default config;

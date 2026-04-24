@@ -45,3 +45,12 @@ export default function RDSection() {
                   <span className="h-display text-lg md:text-xl leading-snug">
                     {locale === 'zh' ? c.zh : c.en}
                   </span>
+                </li>
+              ))}
+            </ul>
+          </Reveal>
+        </div>
+      </div>
+    </section>
+  );
+}

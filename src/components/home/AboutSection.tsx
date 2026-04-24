@@ -45,4 +45,21 @@ export default function AboutSection() {
                 key={s.label}
                 className={
                   'py-8 md:py-10 pr-6 ' +
+                  (i > 0 ? 'md:border-l border-ink-200 md:pl-8 ' : '') +
+                  (i >= 2 ? 'border-t md:border-t-0 ' : '')
+                }
+              >
+                <dt className="label">{s.label}</dt>
+                <dd className="mt-3 h-display text-3xl md:text-4xl lg:text-5xl">
+                  {s.value}
+                </dd>
+              </div>
+            ))}
+          </dl>
+        </Reveal>
+      </div>
+    </section>
+  );
+}
+
          

@@ -58,4 +58,13 @@ export default async function ContactPage({
                   title="Dynai HQ location"
                   src="https://www.openstreetmap.org/export/embed.html?bbox=118.77,32.15,118.83,32.22&layer=mapnik&marker=32.19,118.80"
                   className="h-full w-full border-0"
-          
+                  loading="lazy"
+                />
+              </div>
+            </Reveal>
+          </div>
+        </div>
+      </section>
+    </>
+  );
+}

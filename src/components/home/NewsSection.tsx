@@ -80,4 +80,27 @@ export default function NewsSection() {
                     <h3 className="mt-4 h-display text-lg md:text-xl group-hover:text-brand-700 transition-colors">
                       {n.title}
                     </h3>
-                 
+                  </Link>
+                </Reveal>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+    </section>
+  );
+}
+
+function DateLockup({ iso, compact = false }: { iso: string; compact?: boolean }) {
+  const { year, monthDay } = formatDate(iso);
+  return (
+    <div className="font-mono text-ink-500 flex items-baseline gap-3">
+      <span className={compact ? 'text-xs tracking-widest' : 'text-sm tracking-widest'}>
+        {year}
+      </span>
+      <span className={compact ? 'text-base' : 'text-2xl md:text-3xl text-ink-900'}>
+        {monthDay}
+      </span>
+    </div>
+  );
+}

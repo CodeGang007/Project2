@@ -30,4 +30,18 @@ export default async function CareersPage({
               </blockquote>
             </Reveal>
             <Reveal delay={0.2}>
-              <div className="mt-10 flex flex-col sm:fl
+              <div className="mt-10 flex flex-col sm:flex-row gap-4">
+                <Link href="/jobs" className="btn-primary">
+                  {tn('jobs')}
+                </Link>
+                <Link href="/contact" className="btn-outline">
+                  {tn('contact')}
+                </Link>
+              </div>
+            </Reveal>
+          </div>
+        </div>
+      </section>
+    </>
+  );
+}

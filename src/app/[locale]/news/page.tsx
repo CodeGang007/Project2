@@ -59,4 +59,16 @@ export default async function NewsIndexPage({
                         aria-hidden
                         className="hidden md:inline-block text-ink-400 group-hover:text-ink-900 transition-all group-hover:translate-x-1"
                       >
-            
+                        →
+                      </span>
+                    </Link>
+                  </Reveal>
+                </li>
+              );
+            })}
+          </ul>
+        </div>
+      </section>
+    </>
+  );
+}

@@ -27,4 +27,12 @@ export default async function RDPage({
             </Reveal>
           </div>
           <div className="lg:col-span-8">
-            <Reve
+            <Reveal delay={0.1}>
+              <p className="body text-lg md:text-xl">{t('body')}</p>
+            </Reveal>
+          </div>
+        </div>
+      </section>
+    </>
+  );
+}

@@ -77,4 +77,21 @@ export default function SustainabilitySection() {
                 className={
                   'group relative py-10 md:py-12 md:pr-10 ' +
                   (i > 0 ? 'md:border-l border-ink-200 md:pl-10 ' : '') +
-                  (i > 0 ? 'border-t
+                  (i > 0 ? 'border-t md:border-t-0 border-ink-200 ' : '')
+                }
+              >
+                <p className="num">{String(i + 1).padStart(2, '0')}</p>
+                <h3 className="mt-4 h-display text-2xl md:text-3xl group-hover:text-brand-700 transition-colors">
+                  {c.title}
+                </h3>
+                <span className="mt-6 inline-flex items-center gap-2 text-sm font-medium text-ink-900">
+                  <span aria-hidden>→</span>
+                </span>
+              </Link>
+            ))}
+          </div>
+        </Reveal>
+      </div>
+    </section>
+  );
+}

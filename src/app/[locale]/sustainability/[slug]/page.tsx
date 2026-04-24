@@ -23,4 +23,16 @@ export default async function SustainabilityPage({
         <div className="container-wide grid lg:grid-cols-12 gap-y-8 lg:gap-x-16">
           <div className="lg:col-span-4">
             <Reveal>
-              <p className="label">{t('eyebr
+              <p className="label">{t('eyebrow')}</p>
+            </Reveal>
+          </div>
+          <div className="lg:col-span-8">
+            <Reveal delay={0.1}>
+              <p className="body text-lg md:text-xl">{t('body')}</p>
+            </Reveal>
+          </div>
+        </div>
+      </section>
+    </>
+  );
+}

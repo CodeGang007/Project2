@@ -244,4 +244,29 @@ export default function Header() {
                               key={child.key}
                               href={child.href}
                               onClick={() => setMobileOpen(false)}
-                              className="block py-1.5 t
+                              className="block py-1.5 text-ink-700 hover:text-ink-900 transition-colors"
+                            >
+                              {t(child.key)}
+                            </Link>
+                          ))}
+                        </div>
+                      )}
+                    </>
+                  ) : (
+                    <Link
+                      href={item.href}
+                      onClick={() => setMobileOpen(false)}
+                      className="block py-5 text-xl font-medium text-ink-900"
+                    >
+                      {t(item.key)}
+                    </Link>
+                  )}
+                </div>
+              ))}
+            </nav>
+          </div>
+        </div>
+      )}
+    </header>
+  );
+}
