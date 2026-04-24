@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "siteName": "Jiangsu Dynai Chemical Co., Ltd.",
+    "title": "Jiangsu Dynai Chemical — Glycol Ethers, Acetate Solvents, Wet Electronic Chemicals",
+    "description": "Founded in 2004 in Nanjing Jiangbei New Materials Industrial Park, Dynai operates three manufacturing bases in Nanjing, Binhai and Maoming, specialising in ethylene-oxide and propylene-oxide derivatives.",
+    "keywords": "glycol ether, acetate solvent, wet electronic chemicals, double-capped polyether, ethylene oxide, concrete admixture monomer"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "aboutCompany": "Company Profile",
+    "research": "R&D",
+    "publication": "Newsletter",
+    "products": "Products",
+    "news": "News",
+    "joinUs": "Careers",
+    "careers": "Talent Programme",
+    "jobs": "Open Roles",
+    "sustainability": "Sustainability",
+    "disclosure": "Public Disclosure",
+    "safety": "EHS",
+    "community": "Community",
+    "contact": "Contact",
+    "searchPlaceholder": "Search products",
+    "languageEn": "EN",
+    "languageZh": "中",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "hero": {
+    "slides": [
+      {
+        "eyebrow": "DYNAI CHEMICAL",
+        "title": "Leaders in epoxide derivatives",
+        "subtitle": "Glycol ethers · Acetates · Wet electronic chemicals",
+        "cta": "Learn more"
+      },
+      {
+        "eyebrow": "INNOVATION",
+        "title": "Science for a greener tomorrow",
+        "subtitle": "R&D-led high-quality development",
+        "cta": "Explore R&D"
+      },
+      {
+        "eyebrow": "GLOBAL REACH",
+        "title": "Nanjing · Binhai · Maoming",
+        "subtitle": "Three production bases, global service",
+        "cta": "Partner with us"
+      },
+      {
+        "eyebrow": "SUSTAINABILITY",
+        "title": "Safety, environment, responsibility",
+        "subtitle": "ISO 9001 / 14001 / 45001 certified",
+        "cta": "Our commitment"
+      },
+      {
+        "eyebrow": "JOIN US",
+        "title": "Attract talent. Build the future.",
+        "subtitle": "Grow with Dynai",
+        "cta": "See openings"
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "about us",
+    "title": "About Dynai",
+    "body": "Founded in 2004 and headquartered in the Nanjing Jiangbei New Materials Industrial Park, Dynai operates three manufacturing bases — Nanjing, Binhai and Maoming — specialising in the research, production and sale of ethylene-oxide and propylene-oxide derivatives. Years of innovation have made us the domestic leader in glycol ether and propylene glycol ether capacity with the most complete product portfolio in the industry.",
+    "cta": "Learn more",
+    "stats": [
+      { "value": "2004", "label": "Founded" },
+      { "value": "3", "label": "Production bases" },
+      { "value": "20+", "label": "Product lines" },
+      { "value": "#1", "label": "Domestic capacity" }
+    ]
+  },
+  "rd": {
+    "eyebrow": "research & development",
+    "title": "Research & Innovation",
+    "body": "R&D is one of Dynai's core competencies. We continue to expand research investment, collaborate with leading universities and research institutes, and attract outstanding talent. Today we operate a Jiangsu Provincial Engineering Technology R&D Centre, a postdoctoral research station and a joint university–industry centre, holding multiple proprietary key technologies.",
+    "cta": "Learn more"
+  },
+  "products": {
+    "eyebrow": "products",
+    "title": "Product Centre",
+    "tagline": "Specialising in ethylene-oxide and propylene-oxide derivatives",
+    "cta": "Learn more",
+    "categories": [
+      { "slug": "13", "name": "Glycol Ethers & Acetate Solvents" },
+      { "slug": "14", "name": "Wet Electronic Chemicals" },
+      { "slug": "15", "name": "Double-Capped Polyethers" },
+      { "slug": "16", "name": "Ethylene Oxide & Concrete Admixture Monomers" },
+      { "slug": "17", "name": "Surfactants & Functional Products (Custom)" },
+      { "slug": "18", "name": "Non-toxic Plasticisers" },
+      { "slug": "19", "name": "Brake Fluids & Base Fluids" },
+      { "slug": "20", "name": "Waterborne Resins & Low-odour Coalescents" }
+    ]
+  },
+  "news": {
+    "eyebrow": "news center",
+    "title": "News",
+    "cta": "All news",
+    "readMore": "Read more",
+    "items": [
+      {
+        "id": "123",
+        "title": "Alert odour detection prevents incident",
+        "date": "2026-04-10",
+        "excerpt": "On the morning of 8 April 2026, operators at Dynai's Nanjing site detected an unusual odour, reported it promptly and averted a potential incident…"
+      },
+      {
+        "id": "122",
+        "title": "International Women's Day at Dynai",
+        "date": "2026-03-06",
+        "excerpt": "March winds and spring blossoms — celebrating the strength of the women of Dynai on the 116th International Women's Day…"
+      },
+      {
+        "id": "121",
+        "title": "Annual conference: aligned for growth",
+        "date": "2026-02-05",
+        "excerpt": "As the year closes, the company's annual working conference reviewed achievements and laid out the 2026 roadmap…"
+      }
+    ]
+  },
+  "sustainability": {
+    "eyebrow": "sustainable development",
+    "title": "Sustainability",
+    "body": "Dynai rigorously implements all relevant regulations, pursues safety-goal management, runs continuous safety training, and carries out risk identification, grading, and hazard investigation. The company is ISO 9001, ISO 14001 and ISO 45001 certified and has held the Jiangsu Province Level-2 Safety Production Standardisation certificate since 2009; we are currently pursuing Level-1 certification.",
+    "cta": "Learn more",
+    "viewMore": "View more",
+    "cards": [
+      { "slug": "disclosure", "title": "Public Disclosure" },
+      { "slug": "safety", "title": "EHS" },
+      { "slug": "community", "title": "Community" }
+    ]
+  },
+  "join": {
+    "eyebrow": "Join Us",
+    "title": "Careers",
+    "body": "Guided by the principle of attract-develop-inspire, we align human resources with the company's wider resources to unlock the full potential of our people — creating shared value for employees, the company, our customers and society.",
+    "mechanism": "Talent programme",
+    "jobs": "Open roles",
+    "cta": "Learn more"
+  },
+  "contact": {
+    "eyebrow": "contact us",
+    "title": "Contact",
+    "phone": "400 808 0280",
+    "email": "dynai.info@dynai.com",
+    "address": "6F, Building 4, No. 75 Tiansheng Road, Luhe District, Nanjing, Jiangsu",
+    "cta": "Learn more"
+  },
+  "footer": {
+    "qrCaption": "Scan",
+    "qrSubtitle": "Mobile site",
+    "copyright": "© 2024 Jiangsu Dynai Chemical Co., Ltd. All rights reserved.",
+    "icp": "ICP 05012787",
+    "sitemap": "Sitemap",
+    "copyrightNotice": "Copyright Notice"
+  },
+  "common": {
+    "loading": "Loading…",
+    "backToTop": "Back to top"
+  }
+}

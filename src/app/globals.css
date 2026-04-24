@@ -1,0 +1,87 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: light;
+  }
+
+  html {
+    -webkit-tap-highlight-color: transparent;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-white text-ink-800 font-sans antialiased;
+    font-feature-settings: 'ss01', 'cv11';
+  }
+
+  /* Accessible focus ring — only keyboard focus shows it */
+  :focus-visible {
+    @apply outline-none ring-2 ring-brand-500 ring-offset-2 ring-offset-white;
+  }
+
+  ::selection {
+    @apply bg-ink-900 text-white;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
+
+@layer components {
+  .container-wide {
+    @apply mx-auto w-full max-w-[1360px] px-5 md:px-8 lg:px-12;
+  }
+
+  /* Editorial section padding */
+  .section {
+    @apply py-20 md:py-28 lg:py-32;
+  }
+
+  /* Labels above a heading */
+  .label {
+    @apply text-[11px] md:text-xs font-medium uppercase tracking-micro text-ink-500;
+  }
+
+  /* Inline number marker (01, 02…) */
+  .num {
+    @apply font-mono text-xs tracking-widest text-ink-400;
+  }
+
+  /* Headings — balanced wrapping where supported */
+  h1, h2, h3 {
+    text-wrap: balance;
+  }
+
+  .h-display {
+    @apply font-sans font-medium tracking-tight text-ink-900;
+  }
+
+  .body {
+    @apply text-ink-600 leading-relaxed;
+  }
+
+  /* Buttons */
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 text-sm font-medium transition-colors duration-200 ease-editorial;
+  }
+
+  .btn-primary {
+    @apply btn bg-ink-900 text-white px-6 py-3 hover:bg-ink-800;
+  }
+
+  .btn-outline {
+    @apply btn border border-ink-200 text-ink-800 px-6 py-3 hover:border-ink-900 hover:bg-ink-900 hover:text-white;
+  }
+
+  .btn-l
