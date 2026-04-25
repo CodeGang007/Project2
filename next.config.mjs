@@ -13,7 +13,10 @@ const nextConfig = {
     ]
   },
   experimental: {
-    optimizePackageImports: ['lucide-react', 'framer-motion']
+    // framer-motion intentionally excluded — the optimizer's per-export chunking
+    // is fragile in dev mode and triggers `Cannot find module './vendor-chunks/framer-motion.js'`.
+    // framer-motion ships its own tree-shaking; we don't need the experimental rewrite.
+    optimizePackageImports: ['lucide-react']
   }
 };
 
