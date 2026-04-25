@@ -1,10 +1,12 @@
 {
-  "name": "dyna-site",
+  "name": "dynai-chemical",
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "predev": "rm -rf .next/server .next/static",
     "dev": "next dev",
-    "build": "next build",
+    "build": "node scripts/build-zh-tw.mjs && next build",
+    "build:i18n": "node scripts/build-zh-tw.mjs",
     "start": "next start",
     "lint": "next lint"
   },

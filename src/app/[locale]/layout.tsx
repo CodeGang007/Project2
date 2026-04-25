@@ -3,7 +3,7 @@ import { Inter, Playfair_Display } from 'next/font/google';
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages, getTranslations, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
-import { routing } from '@/i18n/routing';
+import { routing, type Locale } from '@/i18n/routing';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 
@@ -40,7 +40,12 @@ export async function generateMetadata({
       title: t('title'),
       description: t('description'),
       type: 'website',
-      locale: locale === 'zh' ? 'zh_CN' : 'en_US'
+      locale:
+        locale === 'zh'
+          ? 'zh_CN'
+          : locale === 'zh-TW'
+          ? 'zh_TW'
+          : 'en_US'
     }
   };
 }
@@ -54,7 +59,7 @@ export default async function LocaleLayout({
 }) {
   const { locale } = await params;
 
-  if (!routing.locales.includes(locale as 'en' | 'zh')) {
+  if (!routing.locales.includes(locale as Locale)) {
     notFound();
   }
 
@@ -63,7 +68,7 @@ export default async function LocaleLayout({
 
   return (
     <html
-      lang={locale === 'zh' ? 'zh-CN' : locale}
+      lang={locale === 'zh' ? 'zh-CN' : locale === 'zh-TW' ? 'zh-Hant-TW' : locale}
       className={`${inter.variable} ${playfair.variable}`}
     >
       <head>

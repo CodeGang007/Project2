@@ -24,10 +24,28 @@
     "searchPlaceholder": "Search products",
     "languageEn": "EN",
     "languageZh": "中",
+    "languageZhTraditional": "繁",
     "openMenu": "Open menu",
-    "closeMenu": "Close menu"
+    "closeMenu": "Close menu",
+    "getQuote": "Get a Quote",
+    "exploreProducts": "Explore all product categories",
+    "productTagline": "A complete portfolio of ethylene-oxide and propylene-oxide derivatives — spanning solvents, electronic chemicals, polyethers, plasticisers, brake fluids and waterborne resins.",
+    "viewAllProducts": "View all products"
   },
   "hero": {
+    "taglineCn1": "持续创新，提供优质产品和服务",
+    "taglineCn2": "创造价值，和谐环境，演绎生活高度",
+    "taglineEn1": "Continuous innovation.",
+    "taglineEn2": "Chemistry for a better life.",
+    "taglineEnSub": "Creating value · Harmonious environment · Elevated living.",
+    "taglineCnSub": "持续创新，提供优质产品和服务 · 创造价值，和谐环境，演绎生活高度",
+    "ctaPrimary": "Explore products",
+    "ctaSecondary": "Contact sales",
+    "prev": "Previous slide",
+    "next": "Next slide",
+    "pause": "Pause",
+    "play": "Play",
+    "scroll": "Scroll to explore",
     "slides": [
       {
         "eyebrow": "DYNAI CHEMICAL",
@@ -66,18 +84,349 @@
     "title": "About Dynai",
     "body": "Founded in 2004 and headquartered in the Nanjing Jiangbei New Materials Industrial Park, Dynai operates three manufacturing bases — Nanjing, Binhai and Maoming — specialising in the research, production and sale of ethylene-oxide and propylene-oxide derivatives. Years of innovation have made us the domestic leader in glycol ether and propylene glycol ether capacity with the most complete product portfolio in the industry.",
     "cta": "Learn more",
+    "page": {
+      "heroTag": "Chapter 01",
+      "heroTitle": "Dana Profile",
+      "heroSubtitle": "Two decades of fine-chemistry leadership — engineered for a greener, higher-performing tomorrow.",
+      "breadcrumb": {
+        "home": "Homepage",
+        "about": "About Us",
+        "current": "About Dana"
+      },
+      "tabs": {
+        "profile": "Dana Profile",
+        "research": "Scientific research and innovation",
+        "publication": "Dana Internal Publication"
+      },
+      "profile": {
+        "eyebrow": "Company Profile",
+        "title": "Two decades of applied chemistry, engineered for the world.",
+        "lead": "Founded in 2004 in the Nanjing Jiangbei New Materials Industrial Park, Dynai (Dena) has grown into a leading fine-chemical enterprise in China — the domestic leader in glycol ether and propylene glycol ether capacity with the industry's most complete product portfolio.",
+        "body": "We specialise in the research, production and sale of ethylene-oxide and propylene-oxide derivatives. Through continuous innovation, our product structure has steadily optimised and our profitability has grown year after year. We now serve green coatings, electronic-grade chemistry, semiconductor manufacturing, pharmaceuticals, cosmetics and construction markets across Asia, Europe and the Americas — guided by our mission to raise the quality of life through better chemistry.",
+        "watermark": "DYNAMIC CHEMICAL"
+      },
+      "highlights": [
+        {
+          "icon": "building",
+          "title": "Three major production bases",
+          "caption": "Nanjing · Binhai · Maoming"
+        },
+        {
+          "icon": "target",
+          "title": "Leading industry capacity",
+          "caption": "Domestic #1 in glycol ether & propylene glycol ether output"
+        },
+        {
+          "icon": "globe",
+          "title": "Wide range of applications",
+          "caption": "Coatings · Electronics · Pharma · Cosmetics · Construction"
+        }
+      ],
+      "bases": {
+        "eyebrow": "Production Bases",
+        "title": "Three sites. One standard of excellence.",
+        "items": [
+          {
+            "name": "Nanjing Base",
+            "zh": "南京基地",
+            "meta": "Jiangbei New Materials Park",
+            "description": "Flagship R&D and production headquarters. Glycol ethers, acetate solvents, wet electronic chemicals."
+          },
+          {
+            "name": "Binhai (Coastal) Base",
+            "zh": "滨海基地",
+            "meta": "Jiangsu · Binhai",
+            "description": "Large-scale manufacturing site commissioned in 2010. Ethylene-oxide derivatives and polyether series."
+          },
+          {
+            "name": "Maoming Base",
+            "zh": "茂名基地",
+            "meta": "Guangdong · Maoming",
+            "description": "Southern China production hub commissioned in 2019, serving coastal and international customers."
+          }
+        ],
+        "cta": "Learn more"
+      },
+      "culture": {
+        "eyebrow": "Corporate Culture",
+        "title": "Cultivating virtue and learning, embracing all rivers.",
+        "body": "The spirit of Dana is shaped by our founder, Qin Yisheng (1947–2022) — a three-decade veteran of China's chemical industry. Recognised as a Jiangsu Provincial Model Worker (2001) and named China Township Entrepreneur (2004 & 2005), he held 19 patents and built a company ethos rooted in rigour, generosity and long-term thinking.",
+        "founder": {
+          "name": "Qin Yisheng",
+          "nameZh": "秦宜生",
+          "years": "1947 – 2022",
+          "role": "Founder · Chairman Emeritus",
+          "highlights": [
+            { "value": "30+", "label": "Years in chemical industry" },
+            { "value": "2001", "label": "Jiangsu Provincial Model Worker" },
+            { "value": "19", "label": "Patents authored" },
+            { "value": "2004 · 2005", "label": "China Township Entrepreneur" }
+          ],
+          "quote": "\"The river accepts every stream. A company grows by lifting everyone with it.\""
+        }
+      },
+      "mvi": {
+        "eyebrow": "Mission · Vision · Idea · Values",
+        "title": "What drives us.",
+        "items": [
+          {
+            "kicker": "Mission",
+            "title": "Better chemistry for a better life.",
+            "body": "Continuous innovation, providing high-quality products and services — creating value, a harmonious environment, and elevating the quality of life."
+          },
+          {
+            "kicker": "Vision",
+            "title": "One of the world's 100 most responsible chemical companies.",
+            "body": "To become a globally trusted, creative and responsible enterprise — admired for both performance and ethics."
+          },
+          {
+            "kicker": "Idea",
+            "title": "Build a century-old foundation.",
+            "body": "People-oriented, continuous striving, and building a century-old foundation that outlasts any single generation of leaders."
+          },
+          {
+            "kicker": "Core Values",
+            "title": "Integrity · Dedication · Efficiency · Innovation.",
+            "body": "The four habits that guide every decision we make, from the lab bench to the boardroom."
+          }
+        ]
+      },
+      "timeline": {
+        "eyebrow": "Development History",
+        "title": "Our journey.",
+        "lead": "From Tianyin in 1999 to Jiangsu Dena today — a quarter-century of applied chemistry.",
+        "milestones": [
+          {
+            "year": "1999",
+            "title": "Tianyin founded",
+            "body": "Jiangsu Tianyin Chemical Co., Ltd. was established — the seed of the Dana group."
+          },
+          {
+            "year": "2000",
+            "title": "Joint technology centre",
+            "body": "Co-founded a joint science and technology development centre with Shanghai Research Institute of Petrochemical Technology."
+          },
+          {
+            "year": "2002",
+            "title": "High-tech enterprise",
+            "body": "Recognised as a High-Tech Enterprise; Jiangsu Provincial Engineering Technology R&D Centre for fine additives; Tianyin Chemical Shanghai founded."
+          },
+          {
+            "year": "2004",
+            "title": "Dana (Nanjing) Chemical",
+            "body": "Establishment of Dana (Nanjing) Chemical Co., Ltd. — the start of the Dana brand."
+          },
+          {
+            "year": "2005",
+            "title": "Regional expansion",
+            "body": "Tianna Chemical Trading (Shanghai) and Tianyin Chemical Industry & Trade (Tianjin) established."
+          },
+          {
+            "year": "2010",
+            "title": "Binhai (Coastal) base",
+            "body": "Dena Chemical Coastal Co., Ltd. established — scaling ethylene-oxide derivative production."
+          },
+          {
+            "year": "2015",
+            "title": "Hong Kong industrial arm",
+            "body": "Dena (Hong Kong) Industrial Co., Ltd. established, supporting international trade."
+          },
+          {
+            "year": "2016",
+            "title": "Jiangsu Dena Chemical",
+            "body": "Dena (Nanjing) restructured into Jiangsu Dena Chemical Co., Ltd."
+          },
+          {
+            "year": "2019",
+            "title": "Maoming new-materials base",
+            "body": "Dena New Materials (Maoming) Co., Ltd. established — our southern China growth engine."
+          }
+        ]
+      },
+      "awards": {
+        "eyebrow": "Honors & Awards",
+        "title": "Recognition from industry, peers and community.",
+        "lead": "Two decades of consistent performance, measured against independent benchmarks.",
+        "categories": [
+          {
+            "key": "brand",
+            "label": "Brand Value",
+            "icon": "crown",
+            "items": [
+              { "title": "Top 100 Fine Chemical Companies in China", "year": "2020 – 2025" },
+              { "title": "Top 100 private enterprises in China's petroleum & chemical industry", "year": "2017 – 2025" },
+              { "title": "Top 100 manufacturing enterprises in Nanjing", "year": "2022 – 2025" }
+            ]
+          },
+          {
+            "key": "tech",
+            "label": "Technological Innovation",
+            "icon": "zap",
+            "items": [
+              { "title": "Jiangsu Provincial Engineering Technology R&D Centre", "year": "2002 – present" },
+              { "title": "Postdoctoral Research Station", "year": "Active" },
+              { "title": "19 proprietary patents", "year": "Cumulative" }
+            ]
+          },
+          {
+            "key": "partner",
+            "label": "Partner Class",
+            "icon": "handshake",
+            "items": [
+              { "title": "Outstanding Enterprise — Industrial Park", "year": "2023" },
+              { "title": "Top 5 by output value per mu in the park", "year": "2022" },
+              { "title": "Class A status in high-quality assessment", "year": "2021 · 2022" }
+            ]
+          },
+          {
+            "key": "social",
+            "label": "Social Responsibility",
+            "icon": "heart",
+            "items": [
+              { "title": "ISO 9001 / 14001 / 45001", "year": "Certified" },
+              { "title": "Jiangsu Province Level-II Safety Production Standardisation", "year": "2009 – present" },
+              { "title": "PSM process safety management implementation", "year": "2017 – present" }
+            ]
+          }
+        ]
+      }
+    },
+    "sinceLabel": "Since 2004",
     "stats": [
-      { "value": "2004", "label": "Founded" },
-      { "value": "3", "label": "Production bases" },
-      { "value": "20+", "label": "Product lines" },
-      { "value": "#1", "label": "Domestic capacity" }
+      { "value": "20", "suffix": "+", "label": "Years of expertise" },
+      { "value": "3", "suffix": "", "label": "Production bases" },
+      { "value": "100", "suffix": "+", "label": "Products shipped globally" },
+      { "value": "19", "suffix": "", "label": "Proprietary patents" }
     ]
   },
   "rd": {
     "eyebrow": "research & development",
     "title": "Research & Innovation",
     "body": "R&D is one of Dynai's core competencies. We continue to expand research investment, collaborate with leading universities and research institutes, and attract outstanding talent. Today we operate a Jiangsu Provincial Engineering Technology R&D Centre, a postdoctoral research station and a joint university–industry centre, holding multiple proprietary key technologies.",
-    "cta": "Learn more"
+    "cta": "Learn more",
+    "page": {
+      "heroTag": "Chapter 02",
+      "heroTitle": "Scientific Research & Innovation",
+      "heroSubtitle": "Where applied chemistry meets long-term investment — turning ideas into industrial-scale capability.",
+      "breadcrumb": {
+        "home": "Homepage",
+        "about": "About Us",
+        "current": "Scientific Research and Innovation"
+      },
+      "intro": {
+        "eyebrow": "R&D at Dynai",
+        "title": "Research is a long game. We've been playing it since 1999.",
+        "lead": "R&D is one of Dynai's core competencies. We continue to expand research investment, collaborate with leading universities and research institutes, and attract outstanding talent.",
+        "body": "Today we operate a Jiangsu Provincial Engineering Technology R&D Centre, a postdoctoral research station and a joint university–industry centre — holding multiple proprietary key technologies across ethylene-oxide and propylene-oxide chemistry, ultra-pure electronic materials, and performance polyethers."
+      },
+      "counters": [
+        { "value": 19, "suffix": "", "label": "Proprietary patents" },
+        { "value": 3, "suffix": "", "label": "Innovation centres" },
+        { "value": 100, "suffix": "+", "label": "Publications & conferences" },
+        { "value": 25, "suffix": "+", "label": "Years of applied chemistry" }
+      ],
+      "platforms": {
+        "eyebrow": "Innovation Platforms",
+        "title": "Three centres. One mission.",
+        "lead": "Formal research infrastructure that turns curiosity into products the market relies on.",
+        "items": [
+          {
+            "title": "Jiangsu Provincial Engineering Technology R&D Centre",
+            "since": "2002",
+            "focus": "Fine additives · Process chemistry",
+            "description": "Government-recognised engineering technology centre focused on scaling fine-chemical additives from bench to pilot."
+          },
+          {
+            "title": "Postdoctoral Research Station",
+            "since": "Active",
+            "focus": "Fundamental research",
+            "description": "Rotating postdoctoral scholars work on long-horizon research problems alongside in-house scientists."
+          },
+          {
+            "title": "University–Enterprise Joint R&D Centre",
+            "since": "Ongoing",
+            "focus": "Applied chemistry",
+            "description": "Joint programmes with tier-1 universities that combine academic rigour with industrial problem-solving."
+          }
+        ]
+      },
+      "equipment": {
+        "eyebrow": "Lab Equipment",
+        "title": "Instruments that power our chemistry.",
+        "lead": "A full analytical and process-scale stack — from ultra-trace metals analysis to Class-1000 cleanroom production.",
+        "items": [
+          { "name": "Gas Chromatograph — Mass Spectrometer", "code": "GC-MS", "tag": "Analytical" },
+          { "name": "High-Performance Liquid Chromatograph", "code": "HPLC", "tag": "Analytical" },
+          { "name": "Fourier-Transform Infrared Spectrometer", "code": "FTIR", "tag": "Analytical" },
+          { "name": "Inductively-Coupled Plasma MS", "code": "ICP-MS", "tag": "Ultra-trace" },
+          { "name": "Pilot Reactor System", "code": "Pilot", "tag": "Process" },
+          { "name": "Class-1000 Cleanroom", "code": "Cleanroom", "tag": "Wet electronics" }
+        ]
+      },
+      "partners": {
+        "eyebrow": "Academic Collaborators",
+        "title": "We learn faster with the smartest partners.",
+        "lead": "Co-authored research, joint labs, and student rotations with leading universities and national institutes.",
+        "items": [
+          { "name": "Shanghai Research Institute of Petrochemical Technology", "abbr": "SRIPT", "type": "Research institute" },
+          { "name": "Nanjing Tech University", "abbr": "NJTech", "type": "University" },
+          { "name": "East China University of Science and Technology", "abbr": "ECUST", "type": "University" },
+          { "name": "Nanjing University", "abbr": "NJU", "type": "University" },
+          { "name": "Tsinghua University", "abbr": "THU", "type": "University" },
+          { "name": "Chinese Academy of Sciences", "abbr": "CAS", "type": "National academy" }
+        ]
+      },
+      "articles": {
+        "eyebrow": "R&D Spotlights",
+        "title": "Research stories from our team.",
+        "lead": "Recent publications, pilot programmes and patent highlights.",
+        "pagination": "There are a total of {total} records. This is page {page}.",
+        "readMore": "Read the study",
+        "items": [
+          {
+            "id": "rd-01",
+            "title": "Double-capped polyether platform advances to pilot scale",
+            "date": "2025-11-14",
+            "category": "Patent",
+            "minutes": 5,
+            "excerpt": "Our proprietary double end-capped polyether technology completed its pilot-scale verification this quarter, delivering a measured step-change in surfactant performance and hydrolytic stability versus the incumbent benchmark."
+          },
+          {
+            "id": "rd-02",
+            "title": "Ultra-pure PGMEA lifts throughput at a tier-1 semiconductor customer",
+            "date": "2025-08-22",
+            "category": "Case Study",
+            "minutes": 4,
+            "excerpt": "A tier-1 semiconductor customer reported a double-digit yield improvement after switching to Dynai's electronic-grade PGMEA, validating our Class-1000 cleanroom production process."
+          },
+          {
+            "id": "rd-03",
+            "title": "Low-odour coalescent wins national green-product award",
+            "date": "2025-04-09",
+            "category": "Award",
+            "minutes": 3,
+            "excerpt": "Dynai's latest low-odour, waterborne film-forming aid received the 2025 Green Product award, recognising significant VOC and odour reductions for architectural coatings."
+          }
+        ]
+      }
+    },
+    "facilities": [
+      {
+        "title": "Institute of Applied Chemistry",
+        "tag": "Headquarters R&D",
+        "caption": "Our flagship research campus — featuring the white curved reception, analytical labs and pilot reactors."
+      },
+      {
+        "title": "Synthesis & Analytical Labs",
+        "tag": "Process chemistry",
+        "caption": "Scientists running reactions, chromatography and custom synthesis for customer projects."
+      },
+      {
+        "title": "Class-1000 Cleanroom",
+        "tag": "Wet electronic chemicals",
+        "caption": "Ultra-high-purity production for semiconductor and display manufacturing customers."
+      }
+    ]
   },
   "products": {
     "eyebrow": "products",
@@ -85,39 +434,372 @@
     "tagline": "Specialising in ethylene-oxide and propylene-oxide derivatives",
     "cta": "Learn more",
     "categories": [
-      { "slug": "13", "name": "Glycol Ethers & Acetate Solvents" },
-      { "slug": "14", "name": "Wet Electronic Chemicals" },
-      { "slug": "15", "name": "Double-Capped Polyethers" },
-      { "slug": "16", "name": "Ethylene Oxide & Concrete Admixture Monomers" },
-      { "slug": "17", "name": "Surfactants & Functional Products (Custom)" },
-      { "slug": "18", "name": "Non-toxic Plasticisers" },
-      { "slug": "19", "name": "Brake Fluids & Base Fluids" },
-      { "slug": "20", "name": "Waterborne Resins & Low-odour Coalescents" }
-    ]
+      { "slug": "13", "name": "Glycol Ethers & Acetate Solvents", "tagline": "EG / PG ethers & acetate solvents for paints, coatings and inks." },
+      { "slug": "14", "name": "Wet Electronic Chemicals", "tagline": "Ultra-pure chemicals for semiconductors and displays." },
+      { "slug": "15", "name": "Double-Capped Polyethers", "tagline": "High-performance end-capped polyether series." },
+      { "slug": "16", "name": "Ethylene Oxide & Admixture Monomers", "tagline": "EO and concrete water-reducer monomers." },
+      { "slug": "17", "name": "Surfactants & Functional Products", "tagline": "Custom surfactants and functional performance products." },
+      { "slug": "18", "name": "Non-toxic Plasticisers", "tagline": "Eco-friendly alternatives to conventional plasticisers." },
+      { "slug": "19", "name": "Brake Fluids & Base Fluids", "tagline": "Motor-vehicle brake fluids and base fluids." },
+      { "slug": "20", "name": "Waterborne Resins & Coalescents", "tagline": "Water-based resins and low-odour film-forming aids." }
+    ],
+    "page": {
+      "heroTag": "Product Centre",
+      "heroTitle": "A complete portfolio of EO & PO derivatives.",
+      "heroSubtitle": "Eight product families spanning solvents, wet electronic chemicals, polyethers, plasticisers, brake fluids and water-based resins — with MSDS, specifications and samples one click away.",
+      "breadcrumb": { "home": "Homepage", "current": "Products" },
+      "searchPlaceholder": "Search products by name, CAS, formula or code…",
+      "searchEmpty": "No products match that query yet.",
+      "searchViewDetail": "View",
+      "stats": {
+        "categories": "Product families",
+        "skus": "SKUs in catalogue",
+        "iso": "ISO 9001 / 14001 / 45001",
+        "bases": "Production bases"
+      },
+      "categoriesTitle": "Browse by category",
+      "categoriesLead": "Eight product families — click any card to see all SKUs, MSDS and applications.",
+      "categoryCardCta": "Explore category",
+      "categoryOverview": "Overview",
+      "categoryApplications": "Key applications",
+      "relatedTitle": "Related products",
+      "detail": {
+        "breadcrumb": "Product detail",
+        "summary": "Summary",
+        "spec": "Specifications",
+        "applications": "Applications",
+        "packaging": "Packaging",
+        "transport": "Transport",
+        "share": "Share",
+        "back": "Back to category"
+      },
+      "table": {
+        "search": "Search products",
+        "searchPlaceholder": "Search by name, CAS, code or formula…",
+        "noResults": "No products match your filters.",
+        "productName": "Product",
+        "casNumber": "CAS",
+        "formula": "Formula",
+        "msds": "MSDS",
+        "coa": "COA",
+        "compare": "Compare",
+        "inCompare": "Added",
+        "compareFull": "Remove one to add another.",
+        "viewDetail": "View",
+        "filterAll": "All series",
+        "matches": "products shown",
+        "msdsBadge": "MSDS on request",
+        "hasDetail": "Spec sheet"
+      },
+      "compare": {
+        "title": "Compare tray",
+        "compareCta": "Compare",
+        "clear": "Clear",
+        "slot": "Slot",
+        "modalTitle": "Side-by-side comparison",
+        "noSpecs": "Select products with detailed specs to compare.",
+        "close": "Close",
+        "removeSlot": "Remove from compare",
+        "empty": "Add up to 3 products to compare.",
+        "full": "Compare tray is full — remove one to add another."
+      },
+      "quote": {
+        "buttonQuote": "Request quote",
+        "buttonSample": "Request sample",
+        "title": "Request quote or sample",
+        "subtitle": "We reply within one business day across China / EMEA / US time zones.",
+        "productLabel": "Product",
+        "name": "Name",
+        "namePlaceholder": "Your full name",
+        "company": "Company",
+        "companyPlaceholder": "Company name",
+        "email": "Business email",
+        "emailPlaceholder": "you@company.com",
+        "quantity": "Estimated quantity",
+        "quantityPlaceholder": "e.g. 5 MT / month",
+        "message": "Message",
+        "messagePlaceholder": "Share your target spec, packaging preference or delivery timeline.",
+        "submit": "Send request",
+        "submitted": "Thanks — we'll be in touch within one business day.",
+        "invalid": "Please enter your name and a valid business email.",
+        "close": "Close",
+        "purpose": "Purpose",
+        "purposeQuote": "Quote",
+        "purposeSample": "Sample"
+      }
+    }
+  },
+  "newsletter": {
+    "page": {
+      "heroTag": "Chapter 03",
+      "heroTitle": "Dana Internal Publication",
+      "heroSubtitle": "Twice-monthly stories from the Dana team — science, culture, and the people behind our chemistry.",
+      "breadcrumb": {
+        "home": "Homepage",
+        "about": "About Us",
+        "current": "Dana Newsletter"
+      },
+      "intro": {
+        "eyebrow": "The Dana Newsletter",
+        "title": "Culture, research and life at Dana.",
+        "body": "Our internal magazine brings together research highlights, people stories, and updates from all three production bases. Read online or download the PDF — and subscribe to get each new issue delivered to your inbox."
+      },
+      "featuredLabel": "Latest issue",
+      "readOnline": "Read online",
+      "downloadPdf": "Download PDF",
+      "pages": "pages",
+      "size": "size",
+      "issue": "Issue",
+      "volume": "Vol",
+      "pagination": "There are a total of {total} records. This is page {page}.",
+      "pdfTag": "PDF",
+      "pdfBadge": "PDF · High quality",
+      "issues": [
+        {
+          "id": "2026-03-04",
+          "title": "Dena Culture Electronic Journal",
+          "period": "March – April 2026",
+          "excerpt": "Women's Day at Dana, three-base safety forum, and a deep-dive on our new double-capped polyether.",
+          "pages": 32,
+          "size": "8.4 MB"
+        },
+        {
+          "id": "2026-01",
+          "title": "Dana Quarterly",
+          "period": "Issue 1, 2026",
+          "excerpt": "Annual working conference, 2026 roadmap, and a conversation with our R&D director.",
+          "pages": 28,
+          "size": "7.1 MB"
+        },
+        {
+          "id": "2025-11",
+          "title": "Dena Culture",
+          "period": "November 2025",
+          "excerpt": "Maoming base expansion, a postdoc's first year, and autumn EHS drills across the group.",
+          "pages": 24,
+          "size": "6.3 MB"
+        },
+        {
+          "id": "2025-09-10",
+          "title": "Dena Culture",
+          "period": "September – October 2025",
+          "excerpt": "Ultra-pure PGMEA case study, Mid-Autumn photo essay, and a new pilot reactor commissioning.",
+          "pages": 30,
+          "size": "7.8 MB"
+        },
+        {
+          "id": "2025-07-08",
+          "title": "Dena Culture",
+          "period": "July – August 2025",
+          "excerpt": "Summer safety spotlight, Binhai base summer outing, and green product award winners.",
+          "pages": 26,
+          "size": "6.7 MB"
+        },
+        {
+          "id": "2025-05-06",
+          "title": "Dena Culture",
+          "period": "May – June 2025",
+          "excerpt": "Labour-Day stories, Q2 operational review, and a tour of our analytical lab stack.",
+          "pages": 28,
+          "size": "7.0 MB"
+        },
+        {
+          "id": "2025-03-04",
+          "title": "Dena Culture",
+          "period": "March – April 2025",
+          "excerpt": "Spring retreat highlights, 2024 annual report excerpts, and a feature on our postdoc station.",
+          "pages": 30,
+          "size": "7.6 MB"
+        }
+      ],
+      "subscribe": {
+        "eyebrow": "Get each new issue",
+        "title": "Subscribe to the Dana Newsletter.",
+        "body": "We'll email you a link as soon as the next issue is published. No spam, no promotional blasts — just the magazine.",
+        "placeholder": "you@company.com",
+        "submit": "Subscribe",
+        "submitted": "You're in. Next issue drops soon.",
+        "legal": "We'll only email you when a new issue is published.",
+        "invalid": "Please enter a valid email address."
+      },
+      "archive": {
+        "eyebrow": "Archive",
+        "title": "All issues",
+        "lead": "Browse the complete archive of the Dana internal publication — click any cover to read online, or download the full PDF.",
+        "allYears": "All",
+        "gridView": "Grid view",
+        "listView": "List view",
+        "prev": "Previous page",
+        "next": "Next page",
+        "empty": "No issues for this year yet."
+      },
+      "viewer": {
+        "title": "Reading",
+        "page": "Page",
+        "of": "of",
+        "close": "Close",
+        "download": "Download PDF",
+        "share": "Share issue",
+        "prev": "Previous page",
+        "next": "Next page",
+        "placeholder": "An inline PDF preview will be available once the PDF is uploaded. Subscribe below to get it in your inbox when it ships."
+      }
+    }
   },
   "news": {
     "eyebrow": "news center",
-    "title": "News",
+    "title": "News & Press",
     "cta": "All news",
     "readMore": "Read more",
+    "tabs": {
+      "all": "All",
+      "company": "Company",
+      "press": "Press",
+      "industry": "Industry",
+      "csr": "CSR",
+      "events": "Events"
+    },
+    "minuteRead": "min read",
+    "page": {
+      "heroTag": "News Centre",
+      "heroTitle": "News, stories, and the people behind our chemistry.",
+      "heroSubtitle": "Company updates, safety spotlights, industry recognition and the culture that ties three production bases together — published by the Dana editorial team.",
+      "breadcrumb": { "home": "Homepage", "current": "News Centre" },
+      "searchPlaceholder": "Search stories, people or topics…",
+      "searchEmpty": "No stories match that query.",
+      "featuredLabel": "Latest story",
+      "viewDetails": "View details",
+      "back": "Back to news",
+      "related": "Related stories",
+      "shareLabel": "Share this story",
+      "copy": "Copy link",
+      "copied": "Copied to clipboard",
+      "rss": "RSS feed",
+      "prev": "Previous page",
+      "next": "Next page",
+      "prevArticle": "Previous",
+      "nextArticle": "Next",
+      "pagination": "There are a total of {total} records. This is page {page}.",
+      "filterCount": "stories shown",
+      "author": "By",
+      "location": "At",
+      "subscribeTitle": "Get the Dana dispatch",
+      "subscribeBody": "A short monthly note with the stories, safety spotlights and product launches we think are worth your time.",
+      "subscribePlaceholder": "you@company.com",
+      "subscribeSubmit": "Subscribe",
+      "subscribeSubmitted": "Subscribed — watch your inbox.",
+      "subscribeLegal": "You can unsubscribe any time.",
+      "subscribeInvalid": "Please enter a valid email address."
+    },
     "items": [
       {
         "id": "123",
-        "title": "Alert odour detection prevents incident",
+        "title": "Alert odour detection prevents a plant incident",
+        "subtitle": "Operator Sun Teng commended after averting a potential release.",
         "date": "2026-04-10",
-        "excerpt": "On the morning of 8 April 2026, operators at Dynai's Nanjing site detected an unusual odour, reported it promptly and averted a potential incident…"
+        "excerpt": "On the morning of 8 April 2026, operators at Dynai's Nanjing Jiangbei base detected an unusual odour at the reactor module, reported it promptly and isolated the upstream line — averting a potential release.",
+        "category": "Company",
+        "tags": ["EHS", "Safety", "People"],
+        "author": "Dana Editorial",
+        "location": "Nanjing Jiangbei",
+        "minutes": 3,
+        "coverImage": "https://images.unsplash.com/photo-1581089778245-3ce67677f718?auto=format&fit=crop&w=1600&q=85",
+        "body": [
+          "At 06:42 on Tuesday, 8 April 2026, A-shift operator Sun Teng noted a faint, unfamiliar odour during a routine walkthrough of Reactor Bay 2 at our Nanjing Jiangbei base. Within sixty seconds she had activated the local gas-detection grid, paged the shift lead and de-energised the upstream feed pump.",
+          "A subsequent investigation traced the source to a pinhole leak on an auxiliary vapour-return line — a condition that would almost certainly have escalated without early intervention. No product was lost and no downstream unit was affected.",
+          "At the monthly EHS forum, Vice-President of Operations Wang Lei formally commended Sun Teng for her attentiveness and presence of mind. A small cash bonus was awarded alongside a site-wide memo on odour-trigger protocols.",
+          "The incident has since been folded into our quarterly safety refresher — a reminder that the best process safety systems are the ones built by the people closest to the equipment."
+        ]
       },
       {
         "id": "122",
-        "title": "International Women's Day at Dynai",
+        "title": "Spring winds and rising force — honouring the women of Dana",
+        "subtitle": "A photo essay from the 116th International Women's Day celebrations.",
         "date": "2026-03-06",
-        "excerpt": "March winds and spring blossoms — celebrating the strength of the women of Dynai on the 116th International Women's Day…"
+        "excerpt": "March winds and spring blossoms — to mark the 116th International Women's Day, Dana ran a week of workshops, mentoring sessions and a cross-base photography exhibition honouring the women who keep our chemistry running.",
+        "category": "Events",
+        "tags": ["Culture", "People", "Women at Dana"],
+        "author": "Dana Editorial",
+        "location": "Nanjing · Binhai · Maoming",
+        "minutes": 2,
+        "coverImage": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1600&q=85",
+        "body": [
+          "Between 5 and 8 March 2026, Dana's three production bases came alive with colour. Florists were invited on-site, laboratory teams presented five-minute talks on the women scientists who shaped modern chemistry, and a mentoring lunch was held for rising talent in both R&D and operations.",
+          "A cross-base photography exhibition — titled 'At Work' — travelled between Nanjing, Binhai and Maoming. It featured forty portraits: reactor operators, lab chemists, logistics coordinators and the plant nurse — each captioned by the subject themselves.",
+          "The week closed with a panel discussion chaired by VP of People Operations Zhang Yuan, on flexible scheduling, parental leave and pathways into technical leadership — conversations our editorial team will continue to surface throughout 2026."
+        ]
       },
       {
         "id": "121",
-        "title": "Annual conference: aligned for growth",
+        "title": "Working together for a shared future — 2026 annual conference",
+        "subtitle": "Four hundred colleagues gather to review 2025 and chart the year ahead.",
         "date": "2026-02-05",
-        "excerpt": "As the year closes, the company's annual working conference reviewed achievements and laid out the 2026 roadmap…"
+        "excerpt": "As 2025 drew to a close, approximately four hundred Dana colleagues gathered in Nanjing for the 2026 annual working conference — reviewing operational highlights and unveiling the roadmap for the year ahead.",
+        "category": "Company",
+        "tags": ["Strategy", "Culture"],
+        "author": "Dana Editorial",
+        "location": "Nanjing",
+        "minutes": 4,
+        "coverImage": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=1600&q=85",
+        "body": [
+          "On 5 February 2026, roughly four hundred colleagues from Nanjing, Binhai and Maoming gathered at the Jiangbei International Conference Centre for Dana's annual working conference — themed 'Working Together for a Shared Future'.",
+          "Chairman Qin Yonghua opened with a candid review of 2025: revenue up 14%, a Class-1000 cleanroom commissioned at the Maoming base, and our first semi-public ESG disclosure. He closed with a clear priority for 2026 — deepen product quality and widen our international partnerships.",
+          "Department leads followed with concrete commitments for the year, from a 30% reduction in logistics emissions to three new joint-lab programmes with regional universities. The conference ended with a long-service ceremony recognising thirty-two colleagues with ten, twenty or thirty years of service."
+        ]
+      },
+      {
+        "id": "120",
+        "title": "2025 mid-level cadre performance review completed",
+        "subtitle": "One hundred and twelve managers reviewed across three bases.",
+        "date": "2026-01-22",
+        "excerpt": "Dana completed its annual mid-level cadre performance review in January 2026 — a structured, peer-assisted process covering one hundred and twelve managers across all three production bases.",
+        "category": "Company",
+        "tags": ["People", "Governance"],
+        "author": "Dana Editorial",
+        "location": "Group-wide",
+        "minutes": 3,
+        "coverImage": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1600&q=85",
+        "body": [
+          "Between 6 and 20 January 2026, Dana's People Operations and executive teams completed the annual mid-level cadre performance review. One hundred and twelve managers — across production, R&D, sales and support functions — were assessed on a balanced scorecard of delivery, leadership, safety culture and cross-base collaboration.",
+          "The review format was refreshed for 2025: each manager submitted a self-assessment, gathered feedback from three direct reports and two peers, and presented a fifteen-minute session to a cross-functional panel. The format took longer but produced materially richer development plans.",
+          "Outcomes were communicated in the first week of February, alongside individual growth pathways — a mix of rotational assignments, external coaching and targeted training."
+        ]
+      },
+      {
+        "id": "119",
+        "title": "Dana ranks among China's top-100 petrochemical private enterprises",
+        "subtitle": "Industry ranking recognises two decades of focused, responsible growth.",
+        "date": "2026-01-14",
+        "excerpt": "Dana Group has been listed among China's Top-100 Private Petrochemical Enterprises for 2025 — an external industry ranking that recognises steady, responsible growth across fine chemicals and electronic materials.",
+        "category": "Industry",
+        "tags": ["Recognition", "Industry"],
+        "author": "Dana Editorial",
+        "location": "Beijing",
+        "minutes": 3,
+        "coverImage": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1600&q=85",
+        "body": [
+          "On 14 January 2026, the China Petroleum and Chemical Industry Federation released its annual ranking of the country's Top-100 Private Petrochemical Enterprises. Dana Group was included for the eighth consecutive year, moving up two places on the strength of 2025 revenue and sustainability disclosures.",
+          "Chairman Qin Yonghua accepted the recognition in Beijing, crediting 'the long-horizon discipline of our three production bases and the scientists who keep pushing our glycol-ether and electronic-grade portfolios forward.'",
+          "The ranking evaluates revenue, EBITDA, safety record, R&D investment as a share of revenue, and ESG disclosure quality. Dana was specifically highlighted for its Class-1000 cleanroom expansion and wet-electronic-chemicals growth."
+        ]
+      },
+      {
+        "id": "118",
+        "title": "Winter solstice dumplings — a warm gathering at Dana",
+        "subtitle": "Canteen teams host a solstice dinner across all three bases.",
+        "date": "2025-12-19",
+        "excerpt": "On the winter solstice, Dana's three bases hosted a joint dumpling dinner — a warm tradition that draws in operators, scientists and their families alike.",
+        "category": "CSR",
+        "tags": ["Culture", "Community"],
+        "author": "Dana Editorial",
+        "location": "Nanjing · Binhai · Maoming",
+        "minutes": 2,
+        "coverImage": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?auto=format&fit=crop&w=1600&q=85",
+        "body": [
+          "On Friday, 19 December 2025, all three Dana bases opened their canteens for an evening dumpling-making dinner. The solstice gathering has been a tradition at Dana since 2008 — it started in Nanjing and slowly travelled to Binhai and Maoming as the group grew.",
+          "This year's menu featured four regional fillings: three-fresh (Nanjing), shrimp-and-chive (Binhai), sour-cabbage pork (Shenyang dialect pairing for the Maoming team) and a vegetarian mushroom-walnut option prepared by the R&D kitchen's in-house vegetarian circle.",
+          "Proceeds from a small raffle alongside the dinner were donated to the Jiangbei Community Relief Fund — a cause the company has supported since 2013."
+        ]
       }
     ]
   },
@@ -128,26 +810,858 @@
     "cta": "Learn more",
     "viewMore": "View more",
     "cards": [
-      { "slug": "disclosure", "title": "Public Disclosure" },
-      { "slug": "safety", "title": "EHS" },
-      { "slug": "community", "title": "Community" }
-    ]
+      {
+        "slug": "disclosure",
+        "title": "Public Disclosure",
+        "description": "Transparent reporting of emissions, safety performance and governance.",
+        "icon": "leaf"
+      },
+      {
+        "slug": "safety",
+        "title": "Safe & Environmentally Friendly",
+        "description": "ISO-certified EHS management with PSM process safety controls.",
+        "icon": "shield"
+      },
+      {
+        "slug": "community",
+        "title": "Charity & Community",
+        "description": "Investing in education, disaster relief and community programmes.",
+        "icon": "heart"
+      }
+    ],
+    "certifications": "ISO 9001 · ISO 14001 · ISO 45001",
+    "certLegend": "Quality · Environment · Occupational health & safety",
+    "page": {
+      "heroTag": "Sustainability",
+      "heroTitle": "Built sustainable. Built to last.",
+      "heroSubtitle": "Two decades of safety-first chemistry, transparent disclosures and community investment — published by Dana's EHS, R&D and people teams.",
+      "breadcrumb": { "home": "Homepage", "current": "Sustainability" },
+      "subnav": {
+        "disclosure": "Public information",
+        "safety": "Safe & environmentally friendly",
+        "community": "Charity activities"
+      },
+      "disclosure": {
+        "eyebrow": "Public information",
+        "title": "Disclosure announcements",
+        "lead": "Environmental impact assessments, hazardous-waste declarations, emergency-response plans and other regulatory disclosures across our three production bases.",
+        "filters": {
+          "search": "Search disclosures by title or facility…",
+          "all": "All",
+          "year": "Year",
+          "facility": "Facility",
+          "type": "Document type",
+          "noResults": "No disclosures match these filters yet — try clearing one.",
+          "showing": "documents shown"
+        },
+        "table": {
+          "no": "No.",
+          "title": "Disclosure",
+          "type": "Type",
+          "facility": "Facility",
+          "view": "View",
+          "download": "PDF",
+          "posted": "Posted"
+        },
+        "types": {
+          "eia": "EIA",
+          "drill": "Drill notice",
+          "emergency": "Emergency plan",
+          "haz": "Hazardous-waste"
+        },
+        "facilities": {
+          "nanjing": "Nanjing · Jiangbei",
+          "binhai": "Binhai · Yancheng",
+          "maoming": "Maoming"
+        },
+        "items": [
+          {
+            "id": "2026-04-17",
+            "title": "Environmental Impact Assessment — 60,000 t/yr EO Plant Upgrade project",
+            "date": "2026-04-17",
+            "type": "eia",
+            "facility": "nanjing",
+            "size": "3.2 MB",
+            "url": "#"
+          },
+          {
+            "id": "2025-11-13a",
+            "title": "Public Notice — Special Emergency Drill at the EO Plant (June 2025)",
+            "date": "2025-11-13",
+            "type": "drill",
+            "facility": "nanjing",
+            "size": "612 KB",
+            "url": "#"
+          },
+          {
+            "id": "2025-11-13b",
+            "title": "EO Plant — Environmental Emergency Response Plan filing",
+            "date": "2025-11-13",
+            "type": "emergency",
+            "facility": "nanjing",
+            "size": "1.8 MB",
+            "url": "#"
+          },
+          {
+            "id": "2025-11-13c",
+            "title": "Alcohol & Ether Plant Area — Emergency Response Plan filing",
+            "date": "2025-11-13",
+            "type": "emergency",
+            "facility": "nanjing",
+            "size": "2.1 MB",
+            "url": "#"
+          },
+          {
+            "id": "2025-10-14",
+            "title": "2025 Hazardous Waste Information Disclosure (Coastal — Binhai)",
+            "date": "2025-10-14",
+            "type": "haz",
+            "facility": "binhai",
+            "size": "984 KB",
+            "url": "#"
+          },
+          {
+            "id": "2025-08-14",
+            "title": "Environmental Impact Assessment — EO Plant Upgrade (earlier phase)",
+            "date": "2025-08-14",
+            "type": "eia",
+            "facility": "nanjing",
+            "size": "2.7 MB",
+            "url": "#"
+          },
+          {
+            "id": "2025-06-02",
+            "title": "Maoming base — 2025 Hazardous Waste Disclosure",
+            "date": "2025-06-02",
+            "type": "haz",
+            "facility": "maoming",
+            "size": "1.1 MB",
+            "url": "#"
+          },
+          {
+            "id": "2025-04-21",
+            "title": "Binhai — Annual Emergency Response Plan refresh",
+            "date": "2025-04-21",
+            "type": "emergency",
+            "facility": "binhai",
+            "size": "1.4 MB",
+            "url": "#"
+          }
+        ]
+      },
+      "safety": {
+        "eyebrow": "Safe & environmentally friendly",
+        "title": "Safety in production.",
+        "lead": "From traditional fine chemistry to a new-materials chemical enterprise — every step measured, every year independently audited.",
+        "body": [
+          "Dana rigorously implements all relevant national, provincial and local safety and environmental regulations. We pursue safety-goal management, run continuous safety training, and carry out structured risk identification, hazard grading and incident investigation across all three production bases.",
+          "We are ISO 9001, ISO 14001 and ISO 45001 certified. We have held the Jiangsu Province Level-2 Safety Production Standardisation certificate since 2009 and are currently pursuing Level-1 certification. In 2017 we adopted the OSHA-style PSM (Process Safety Management) framework — every reactor unit since then has been designed, commissioned and reviewed under PSM principles.",
+          "Over the last decade we have transitioned from a traditional fine-chemical enterprise to a new-materials chemical enterprise — the same physical sites, but a deeper commitment to ultra-pure electronic chemicals, water-based resins and other lower-impact product lines."
+        ],
+        "kpis": {
+          "eyebrow": "HSE KPI dashboard",
+          "title": "How we measure ourselves.",
+          "asOf": "as of 2025 year-end",
+          "items": [
+            { "value": "0", "label": "Lost-time injuries", "sublabel": "Group-wide, 2025 calendar year", "trend": "Year-over-year: −1" },
+            { "value": "12,840", "label": "Training hours", "sublabel": "Across all three bases, 2025", "trend": "+18% vs. 2024" },
+            { "value": "−27%", "label": "VOC emissions intensity", "sublabel": "Per tonne of product, vs. 2020 baseline", "trend": "On track for −35% by 2027" },
+            { "value": "100%", "label": "Hazardous-waste compliance", "sublabel": "Inspections passed in 2025", "trend": "12 / 12 audits clean" },
+            { "value": "98.6%", "label": "Wastewater treatment rate", "sublabel": "Treated to discharge standard", "trend": "+0.4 pp vs. 2024" },
+            { "value": "16", "label": "Site safety drills", "sublabel": "Cross-functional, full-scale", "trend": "On schedule for 2026" }
+          ]
+        },
+        "certifications": {
+          "eyebrow": "Certifications & frameworks",
+          "title": "Externally audited every year.",
+          "items": [
+            { "code": "ISO 9001", "scope": "Quality management", "since": "2008", "color": "brand", "body": "Annual surveillance, three-yearly recertification audits — covering all manufacturing, R&D and customer-facing processes." },
+            { "code": "ISO 14001", "scope": "Environmental management", "since": "2010", "color": "emerald", "body": "Documented EMS covering air, water, waste and materials — applied at every production base." },
+            { "code": "ISO 45001", "scope": "Occupational health & safety", "since": "2019", "color": "amber", "body": "Replaces our prior OHSAS 18001 certification — same continuous-improvement discipline, broader risk lens." },
+            { "code": "JS L2", "scope": "Jiangsu Level-2 Safety Production Standardisation", "since": "2009", "color": "rose", "body": "Provincial standard certified annually since 2009 — currently in active pursuit of Level-1 status." },
+            { "code": "PSM", "scope": "Process Safety Management", "since": "2017", "color": "fuchsia", "body": "OSHA-style PSM framework adopted across every reactor unit — design, commissioning and operating reviews." },
+            { "code": "RC 14001", "scope": "Responsible Care", "since": "2021", "color": "cyan", "body": "Voluntary chemical-industry framework integrating EHS performance with stakeholder transparency." }
+          ]
+        }
+      },
+      "community": {
+        "eyebrow": "Charity activities",
+        "title": "Beyond chemistry — investing in people and place.",
+        "lead": "Over the past two decades, Dana has donated nearly 10 million yuan in support of education, poverty alleviation, and bridge and road construction across Jiangsu, Yancheng and Maoming.",
+        "stats": [
+          { "value": "¥9.7M+", "label": "Donated since 2004" },
+          { "value": "12", "label": "Long-term partners" },
+          { "value": "1,400+", "label": "Volunteer hours / year" }
+        ],
+        "projectsTitle": "Project stories",
+        "projectsLead": "A small selection of the work, with the impact numbers we measure ourselves on.",
+        "projects": [
+          {
+            "title": "Liuhe District scholarship programme",
+            "location": "Nanjing · Liuhe District",
+            "year": "Since 2010",
+            "impact": "320+ scholarships",
+            "body": "Annual scholarship for top-performing high-school students from rural townships in Liuhe District. The programme covers tuition, books and travel, and assigns each scholar a Dana mentor for the duration of their university studies.",
+            "image": "https://images.unsplash.com/photo-1497486751825-1233686d5d80?auto=format&fit=crop&w=1100&q=80",
+            "tag": "Education"
+          },
+          {
+            "title": "Jiangbei community relief fund",
+            "location": "Nanjing · Jiangbei",
+            "year": "Since 2013",
+            "impact": "¥2.1M cumulative",
+            "body": "A reserve fund for hardship cases in our Jiangbei community — emergency medical care, post-disaster repairs and short-term housing support. Topped up annually from a combination of corporate donations and an opt-in employee giving programme.",
+            "image": "https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?auto=format&fit=crop&w=1100&q=80",
+            "tag": "Community relief"
+          },
+          {
+            "title": "Maoming bridge & road improvement",
+            "location": "Maoming",
+            "year": "2019 – 2024",
+            "impact": "3 villages connected",
+            "body": "Five-year programme co-financed with the Maoming municipal government to upgrade the connecting road and three small bridges between our base and three nearby villages.",
+            "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&w=1100&q=80",
+            "tag": "Infrastructure"
+          },
+          {
+            "title": "Binhai coastal restoration",
+            "location": "Binhai · Yancheng",
+            "year": "Since 2022",
+            "impact": "12 ha rehabilitated",
+            "body": "Joint project with the Binhai Coastal Authority to plant native salt-tolerant grasses on a 12-hectare strip of degraded coastal land adjacent to our Binhai base.",
+            "image": "https://images.unsplash.com/photo-1507692049790-de58290a4334?auto=format&fit=crop&w=1100&q=80",
+            "tag": "Environment"
+          }
+        ],
+        "ngoTitle": "Long-term partners",
+        "ngoLead": "Public-good organisations we work with year-round.",
+        "ngos": [
+          { "name": "Liuhe Education Foundation", "tag": "Education" },
+          { "name": "Jiangbei Community Relief Fund", "tag": "Community" },
+          { "name": "Maoming Rural Infrastructure Initiative", "tag": "Infrastructure" },
+          { "name": "Binhai Coastal Restoration Authority", "tag": "Environment" },
+          { "name": "China Chemical Industry Charity", "tag": "Industry" },
+          { "name": "Yancheng Volunteer Network", "tag": "Volunteering" }
+        ],
+        "galleryTitle": "From the ground",
+        "gallery": [
+          { "image": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?auto=format&fit=crop&w=1100&q=80", "caption": "Liuhe scholarship recipients · 2025" },
+          { "image": "https://images.unsplash.com/photo-1509099836639-18ba1795216d?auto=format&fit=crop&w=1100&q=80", "caption": "Volunteer day · Jiangbei community" },
+          { "image": "https://images.unsplash.com/photo-1532629345422-7515f3d16bb6?auto=format&fit=crop&w=1100&q=80", "caption": "Maoming road opening · 2024" },
+          { "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&w=1100&q=80", "caption": "Binhai coastal planting · 2024" }
+        ]
+      },
+      "cta": {
+        "title": "Want to dig deeper?",
+        "body": "Our EHS and ESG teams publish quarterly disclosures and respond to all good-faith inquiries within five business days.",
+        "primary": "Talk to our EHS team",
+        "secondary": "Read the news"
+      }
+    }
   },
   "join": {
     "eyebrow": "Join Us",
-    "title": "Careers",
+    "title": "Build a career that matters.",
     "body": "Guided by the principle of attract-develop-inspire, we align human resources with the company's wider resources to unlock the full potential of our people — creating shared value for employees, the company, our customers and society.",
-    "mechanism": "Talent programme",
-    "jobs": "Open roles",
-    "cta": "Learn more"
+    "mechanism": "Talent mechanism",
+    "jobs": "Talent recruitment",
+    "cta": "Learn more",
+    "openings": "open positions",
+    "viewJobs": "View open positions",
+    "teams": ["R&D", "Process", "Quality", "EHS", "Sales", "Engineering"],
+    "page": {
+      "heroTag": "Join Dana",
+      "heroTitle": "Build a career that matters — together.",
+      "heroSubtitle": "Across three production bases and a growing R&D footprint, we invest in the people who invest in us. This is our talent mechanism — from philosophy to benefits.",
+      "breadcrumb": {
+        "home": "Homepage",
+        "current": "Talent Mechanism"
+      },
+      "subnav": {
+        "mechanism": "Talent Mechanism",
+        "recruitment": "Talent Recruitment"
+      },
+      "philosophy": {
+        "eyebrow": "Talent Philosophy",
+        "title": "Attract · Develop · Inspire.",
+        "lead": "The three verbs that shape how we hire, grow and reward the people who make Dana.",
+        "items": [
+          {
+            "key": "attract",
+            "kicker": "Attract",
+            "title": "Attracting talent worth the long game.",
+            "body": "We look for the curious and the conscientious — chemists who ask 'why', engineers who sweat the details, operators who speak up. We compete on work worth doing, teams worth joining, and leaders worth following — not on one-off signing bonuses."
+          },
+          {
+            "key": "develop",
+            "kicker": "Develop",
+            "title": "Developing talent the patient way.",
+            "body": "Apprenticeship programmes, internal rotations, and external certifications give every colleague a path. We pair early-career engineers with two mentors — one technical, one leadership — and review growth every six months, not once a year."
+          },
+          {
+            "key": "inspire",
+            "kicker": "Inspire",
+            "title": "Inspiring talent with trust and ownership.",
+            "body": "Performance is rewarded with autonomy, not just pay. Teams set their own quarterly goals, own their safety targets, and present their wins at the monthly all-hands. We hire adults and treat them that way."
+          }
+        ]
+      },
+      "development": {
+        "eyebrow": "Career Development",
+        "title": "Paths that open up as you grow.",
+        "lead": "Three commitments we make to every colleague who joins Dana.",
+        "items": [
+          {
+            "title": "Diversified career paths",
+            "body": "Dual tracks across technical and managerial progression — a senior scientist earns as much as a department head. Choose the path that fits you, switch when your interests do."
+          },
+          {
+            "title": "Internal competition first",
+            "body": "Open roles are posted internally for two weeks before external hiring. In 2025, more than 40% of our mid-level promotions were filled by internal candidates."
+          },
+          {
+            "title": "Comprehensive training system",
+            "body": "Apprenticeship, in-house academy, external lecturers, online and offline blended learning — with a per-person training budget reviewed every year and no cap on approved external courses."
+          }
+        ]
+      },
+      "benefits": {
+        "eyebrow": "Salary & Benefits",
+        "title": "Benefits after becoming a full-time employee.",
+        "lead": "A complete package that takes care of the basics — and then some.",
+        "items": [
+          {
+            "icon": "shield",
+            "title": "Five insurances + housing fund",
+            "body": "Full statutory social insurance and housing fund contributions, managed locally at every base."
+          },
+          {
+            "icon": "heart-pulse",
+            "title": "Supplemental medical insurance",
+            "body": "Employer-paid top-up cover for inpatient and major-illness scenarios, extendable to family."
+          },
+          {
+            "icon": "bed",
+            "title": "Dormitory",
+            "body": "On-site dormitory option for colleagues relocating or commuting long distance."
+          },
+          {
+            "icon": "bus",
+            "title": "Shuttle bus",
+            "body": "Shuttle routes from the nearest metro or city hubs to every production base."
+          },
+          {
+            "icon": "utensils",
+            "title": "Canteen",
+            "body": "Two subsidised hot meals a day with rotating regional menus and vegetarian options."
+          },
+          {
+            "icon": "gift",
+            "title": "Holiday benefits",
+            "body": "Lunar New Year, Mid-Autumn and Dragon Boat gifts; family days twice a year."
+          },
+          {
+            "icon": "cake",
+            "title": "Birthday benefits",
+            "body": "A personalised birthday card from your team lead and a catered birthday cake on the day."
+          },
+          {
+            "icon": "stethoscope",
+            "title": "Hospital visits",
+            "body": "Paid leave and a welfare fund contribution when colleagues are hospitalised."
+          },
+          {
+            "icon": "ring",
+            "title": "Wedding & funeral support",
+            "body": "Cash and paid leave for major life events — weddings, funerals and the birth of a child."
+          }
+        ]
+      },
+      "testimonials": {
+        "eyebrow": "Voices from Dana",
+        "title": "People who make it worth showing up.",
+        "lead": "Three of our colleagues on what keeps them at Dana.",
+        "items": [
+          {
+            "quote": "My first rotation was three months in the R&D lab. My second was a month on the night shift. That's unusual — and it made me a better process engineer.",
+            "name": "Chen Wei",
+            "role": "Process Engineer",
+            "base": "Nanjing · Jiangbei",
+            "years": "Joined 2021",
+            "photo": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=600&q=85"
+          },
+          {
+            "quote": "I've worked at three Chinese chemical companies. Dana is the first one that listened when I pushed back on a safety design.",
+            "name": "Liu Xi",
+            "role": "EHS Manager",
+            "base": "Binhai",
+            "years": "Joined 2018",
+            "photo": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&w=600&q=85"
+          },
+          {
+            "quote": "When I told my team I wanted to move from QC to the analytical lab, my manager spent a month building the transition plan with me. I didn't even have to ask twice.",
+            "name": "Wang Tao",
+            "role": "Analytical Chemist",
+            "base": "Maoming",
+            "years": "Joined 2023",
+            "photo": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=600&q=85"
+          }
+        ]
+      },
+      "dayInLife": {
+        "eyebrow": "A day in the life",
+        "title": "Eight stops with a Dana process engineer.",
+        "lead": "Chen Wei walks us through a Tuesday at the Nanjing Jiangbei base.",
+        "items": [
+          {
+            "time": "06:30",
+            "activity": "Shuttle bus",
+            "body": "Jumped on the shuttle from the Luhe metro — 25 minutes reading time, one seat away from my reactor bay."
+          },
+          {
+            "time": "07:10",
+            "activity": "Shift handover",
+            "body": "Fifteen-minute handover with the night shift. Two stable batches, one minor pump alarm to watch."
+          },
+          {
+            "time": "08:30",
+            "activity": "Canteen breakfast",
+            "body": "Steamed buns and soy milk from the canteen. I owe a colleague a bowl of noodles for last week."
+          },
+          {
+            "time": "10:00",
+            "activity": "Walk-through",
+            "body": "Bay-by-bay walk-through with the operations lead. Spotted a steam-trap needing replacement this afternoon."
+          },
+          {
+            "time": "12:00",
+            "activity": "Lunch",
+            "body": "Quick lunch — fish, vegetables and rice — with the analytical team. A quarterly budget conversation slides into a casual mentoring session."
+          },
+          {
+            "time": "14:00",
+            "activity": "Mentoring review",
+            "body": "Monthly one-on-one with my technical mentor. We revise my Q2 development plan together."
+          },
+          {
+            "time": "16:00",
+            "activity": "Safety drill",
+            "body": "Unannounced gas-leak drill at bay 3. Nine minutes from alarm to all-clear — a personal best for the shift."
+          },
+          {
+            "time": "18:30",
+            "activity": "Home",
+            "body": "Shuttle back to the metro. Tomorrow: writing up the steam-trap investigation and a short training session with two new hires."
+          }
+        ]
+      },
+      "gallery": {
+        "eyebrow": "Life at Dana",
+        "title": "Places you'll actually spend your days.",
+        "items": [
+          {
+            "label": "Production control room",
+            "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=1100&q=80"
+          },
+          {
+            "label": "Analytical lab",
+            "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1100&q=80"
+          },
+          {
+            "label": "Subsidised canteen",
+            "image": "https://images.unsplash.com/photo-1530062845289-9109b2c9c868?auto=format&fit=crop&w=1100&q=80"
+          },
+          {
+            "label": "Shuttle bus · metro link",
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1100&q=80"
+          },
+          {
+            "label": "Dormitory common room",
+            "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1100&q=80"
+          },
+          {
+            "label": "Jiangbei HQ entrance",
+            "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1100&q=80"
+          }
+        ]
+      },
+      "cta": {
+        "title": "Ready to build something that lasts?",
+        "body": "Browse open roles across all three production bases, or send us a speculative CV — we keep the door open for people we want to meet.",
+        "viewJobs": "See open roles",
+        "contact": "Talk to recruiting",
+        "openPositionsLabel": "open roles"
+      }
+    },
+    "jobsPage": {
+      "heroTag": "Talent Recruitment",
+      "heroTitle": "Open roles across our three production bases.",
+      "heroSubtitle": "From campus hires to senior research leads — every role we open at Dana, with the full process and a real way to apply.",
+      "breadcrumb": { "home": "Homepage", "join": "Join Us", "current": "Talent Recruitment" },
+      "process": {
+        "eyebrow": "Recruitment process",
+        "title": "Eight steps from CV to start date.",
+        "lead": "Predictable for you, structured for us. Every Dana hire goes through the same eight stages.",
+        "steps": [
+          { "key": "presentation", "title": "Presentation", "body": "Company overview and role context — written or in-session.", "icon": "presentation" },
+          { "key": "screening", "title": "Resume screening", "body": "Initial CV review by hiring lead and people partner.", "icon": "scan" },
+          { "key": "written", "title": "Written exam", "body": "Role-specific written assessment for in-scope positions.", "icon": "pen" },
+          { "key": "skills", "title": "Skills test", "body": "Hands-on technical / job-simulation exercise.", "icon": "wrench" },
+          { "key": "medical", "title": "Pre-employment medical", "body": "Standard physical and occupational fitness check.", "icon": "stethoscope" },
+          { "key": "interview", "title": "Group interview", "body": "Cross-functional panel — team fit, motivation and depth.", "icon": "users" },
+          { "key": "offer", "title": "Offer", "body": "Written offer with package details and start-date options.", "icon": "mail" },
+          { "key": "signing", "title": "Signing", "body": "Contract signing, onboarding plan and welcome pack.", "icon": "check" }
+        ]
+      },
+      "tabs": {
+        "campus": "Campus recruitment",
+        "social": "Social recruitment"
+      },
+      "filters": {
+        "search": "Search roles, locations, majors…",
+        "all": "All",
+        "location": "Location",
+        "education": "Education",
+        "noResults": "No roles match your filters yet — try clearing one.",
+        "showing": "roles shown",
+        "campusBadge": "Campus",
+        "socialBadge": "Social"
+      },
+      "table": {
+        "no": "No.",
+        "title": "Role",
+        "positions": "Openings",
+        "location": "Location",
+        "education": "Education",
+        "major": "Major / professional",
+        "actions": "",
+        "apply": "Apply",
+        "expand": "View details",
+        "collapse": "Hide details",
+        "responsibilities": "Responsibilities",
+        "requirements": "Requirements",
+        "posted": "Posted"
+      },
+      "campusItems": [
+        {
+          "id": "campus-sales",
+          "title": "Sales Manager (Campus)",
+          "positions": 3,
+          "location": "Nanjing · Jiangbei New Area",
+          "education": "Undergraduate+",
+          "major": "Marketing, Applied Chemistry, Polymer Materials",
+          "posted": "2026-03-12"
+        },
+        {
+          "id": "campus-experimenter",
+          "title": "Experimenter",
+          "positions": 2,
+          "location": "Nanjing · Jiangbei",
+          "education": "Undergraduate+",
+          "major": "Applied Chemistry, Fine Chemical Engineering, Polymer Materials",
+          "posted": "2026-03-12"
+        },
+        {
+          "id": "campus-analyst",
+          "title": "Analyst",
+          "positions": 2,
+          "location": "Nanjing · Jiangbei",
+          "education": "Junior College+",
+          "major": "Industrial Analysis, Chemical Engineering",
+          "posted": "2026-03-05"
+        }
+      ],
+      "socialItems": [
+        {
+          "id": "social-sales-mgr",
+          "title": "Sales Manager",
+          "positions": 6,
+          "location": "Nanjing · Jiangbei + Yixing, Jiangsu",
+          "education": "Undergraduate+",
+          "major": "Marketing, Applied Chemistry, Polymer Materials",
+          "posted": "2026-04-08",
+          "responsibilities": [
+            "Own the full sales cycle for assigned accounts and territories — pipeline, contract, payment.",
+            "Build and maintain relationships with both new and key existing customers.",
+            "Coordinate with operations, R&D and logistics to deliver on commitments.",
+            "Maintain accurate forecasts and CRM hygiene; report monthly performance to the regional lead.",
+            "Represent Dana at industry events and customer-site visits across China and select export markets.",
+            "Feed market intelligence back to product management and pricing."
+          ],
+          "requirements": [
+            "3+ years of B2B sales experience in fine chemicals, coatings, electronic chemicals or adjacent industries.",
+            "Bachelor's degree (Marketing, Applied Chemistry or Polymer Materials preferred); willingness to travel up to 40%."
+          ]
+        },
+        {
+          "id": "social-dcs",
+          "title": "DCS Operator",
+          "positions": 5,
+          "location": "Binhai County, Yancheng",
+          "education": "Junior College+",
+          "major": "Chemical Engineering",
+          "posted": "2026-04-02",
+          "responsibilities": [
+            "Operate the distributed control system across assigned production units, maintaining safe and stable operation within set parameters.",
+            "Monitor and adjust real-time process variables; respond to alarms following SOPs.",
+            "Carry out shift handover discipline — written log, verbal handover, walk-through.",
+            "Participate in scheduled drills, hazop reviews and continuous-improvement projects."
+          ],
+          "requirements": [
+            "Junior college diploma or above in chemical engineering or process control.",
+            "Operator certificate; willingness to work rotating shifts at the Binhai base.",
+            "1+ year of DCS experience preferred — graduate hires considered with strong simulator scores."
+          ]
+        },
+        {
+          "id": "social-org-lead",
+          "title": "Organic Synthesis Research Group Leader",
+          "positions": 1,
+          "location": "Nanjing · Jiangbei",
+          "education": "PhD (exceptional MS considered)",
+          "major": "Organic / Medicinal / Applied Chemistry",
+          "posted": "2026-03-25",
+          "responsibilities": [
+            "Lead an organic-synthesis research team focused on EO/PO derivatives and selective functionalisation chemistry.",
+            "Set the technical roadmap, project portfolio and scale-up readiness criteria with R&D leadership.",
+            "Mentor scientists and graduate students; collaborate with university partners on joint-lab projects.",
+            "Translate lab-scale wins into pilot and commercial production with the process-engineering team."
+          ],
+          "requirements": [
+            "PhD in organic, medicinal or applied chemistry; outstanding MS candidates with a strong publication record will be considered.",
+            "Demonstrated track record leading a small research team (3+ scientists).",
+            "Hands-on synthesis expertise — particularly in alkoxylation, esterification or selective functional-group transformations.",
+            "Comfortable in a bilingual (Mandarin / English) research environment."
+          ]
+        }
+      ],
+      "apply": {
+        "title": "Apply for this role",
+        "subtitle": "We respond to every application within five business days.",
+        "name": "Full name",
+        "namePlaceholder": "Your full name",
+        "email": "Email",
+        "emailPlaceholder": "you@email.com",
+        "phone": "Phone",
+        "phonePlaceholder": "+86 ...",
+        "linkedin": "LinkedIn (optional)",
+        "linkedinPlaceholder": "https://linkedin.com/in/...",
+        "resume": "Resume",
+        "resumeHint": "PDF or DOCX, up to 8 MB",
+        "resumeBrowse": "Browse",
+        "resumeReplace": "Replace",
+        "resumeMissing": "Please attach your resume.",
+        "message": "Cover letter",
+        "messagePlaceholder": "Why this role at Dana? Tell us in a few sentences…",
+        "submit": "Submit application",
+        "submitted": "Application received — we'll be in touch within five business days.",
+        "invalid": "Please complete the required fields with valid values.",
+        "close": "Close",
+        "consent": "By submitting you agree to our recruitment privacy notice."
+      },
+      "cta": {
+        "title": "Don't see the right role?",
+        "body": "We keep an open speculative inbox for chemists, engineers and operators who want to grow with Dana. Send your CV — if it's the right time, we'll be in touch.",
+        "speculative": "Send a speculative CV",
+        "viewMechanism": "Read our talent mechanism"
+      }
+    }
   },
   "contact": {
     "eyebrow": "contact us",
-    "title": "Contact",
+    "title": "Let's start a conversation.",
     "phone": "400 808 0280",
     "email": "dynai.info@dynai.com",
     "address": "6F, Building 4, No. 75 Tiansheng Road, Luhe District, Nanjing, Jiangsu",
-    "cta": "Learn more"
+    "cta": "Learn more",
+    "formTitle": "Send us a message",
+    "formSubtitle": "Tell us what you need — our sales team typically responds within one business day.",
+    "formName": "Name",
+    "formNamePlaceholder": "Jane Smith",
+    "formCompany": "Company",
+    "formCompanyPlaceholder": "Company name",
+    "formEmail": "Work email",
+    "formEmailPlaceholder": "you@company.com",
+    "formMessage": "How can we help?",
+    "formMessagePlaceholder": "Briefly describe your project, volume and timeline…",
+    "formSubmit": "Send message",
+    "formSuccess": "Thanks — we'll reach out within one business day.",
+    "mapLabel": "Nanjing · Luhe headquarters",
+    "phoneLabel": "Sales line",
+    "emailLabel": "Email",
+    "addressLabel": "Headquarters",
+    "hoursLabel": "Hours",
+    "hoursValue": "Mon – Fri · 09:00 – 18:00 CST",
+    "page": {
+      "heroTag": "Contact us",
+      "heroTitle": "Let's start a conversation.",
+      "heroSubtitle": "Sales, talent, media or general — there's a real person on the other end of every channel below. We respond to every legitimate inquiry within one business day.",
+      "breadcrumb": { "home": "Homepage", "current": "Contact" },
+      "primary": {
+        "eyebrow": "Headquarters",
+        "title": "Jiangsu Dana Chemical Co., Ltd.",
+        "addressLabel": "Address",
+        "phoneLabel": "General line",
+        "emailLabel": "Email",
+        "hoursLabel": "Hours",
+        "hours": "Mon – Fri · 09:00 – 18:00 CST"
+      },
+      "departments": {
+        "eyebrow": "Talk to the right team",
+        "title": "Department contacts.",
+        "lead": "Each team owns its own inbox — that's how we keep response times under one business day.",
+        "items": [
+          {
+            "key": "sales",
+            "icon": "handshake",
+            "title": "Sales & business development",
+            "body": "Pricing, lead times, contract terms and ongoing account support across all 8 product families.",
+            "email": "sales@dynai.com",
+            "phone": "+86 25 5868 0001",
+            "hours": "Mon – Fri · 08:30 – 18:00"
+          },
+          {
+            "key": "hr",
+            "icon": "users",
+            "title": "Talent & HR",
+            "body": "Open roles, campus recruitment, internships and speculative applications across our three production bases.",
+            "email": "hr@dynai.com",
+            "phone": "+86 25 5868 0002",
+            "hours": "Mon – Fri · 09:00 – 18:00"
+          },
+          {
+            "key": "media",
+            "icon": "megaphone",
+            "title": "Media & PR",
+            "body": "Press inquiries, ESG reports, factual fact-checks and interview requests with our executive team.",
+            "email": "media@dynai.com",
+            "phone": "+86 25 5868 0003",
+            "hours": "Mon – Fri · 09:00 – 18:00"
+          },
+          {
+            "key": "general",
+            "icon": "info",
+            "title": "General inquiries",
+            "body": "Anything else — we'll route your message to the right team within one business day.",
+            "email": "info@dynai.com",
+            "phone": "400 808 0280",
+            "hours": "Mon – Fri · 09:00 – 18:00"
+          }
+        ]
+      },
+      "facilitiesTitle": "Production bases",
+      "facilitiesLead": "Three sites, one company — direct contact for each.",
+      "facilities": [
+        {
+          "key": "nanjing",
+          "name": "Nanjing · Jiangbei (Headquarters)",
+          "address": "6F, Building 4, No. 75 Tiansheng Road, Liuhe District, Nanjing, Jiangsu Province",
+          "phone": "400 808 0280",
+          "email": "nanjing@dynai.com",
+          "image": "https://images.unsplash.com/photo-1518152006812-edab29b069ac?auto=format&fit=crop&w=1100&q=80",
+          "tag": "HQ · R&D · Production"
+        },
+        {
+          "key": "binhai",
+          "name": "Binhai (Yancheng)",
+          "address": "Binhai County Coastal Industrial Park, Yancheng, Jiangsu Province",
+          "phone": "+86 515 8489 0001",
+          "email": "binhai@dynai.com",
+          "image": "https://images.unsplash.com/photo-1513828583688-c52646db42da?auto=format&fit=crop&w=1100&q=80",
+          "tag": "Coastal production"
+        },
+        {
+          "key": "maoming",
+          "name": "Maoming",
+          "address": "Maoming Petrochemical Industrial Zone, Maoming, Guangdong Province",
+          "phone": "+86 668 6800 001",
+          "email": "maoming@dynai.com",
+          "image": "https://images.unsplash.com/photo-1553413077-190dd305871c?auto=format&fit=crop&w=1100&q=80",
+          "tag": "Southern production"
+        }
+      ],
+      "form": {
+        "eyebrow": "Send a message",
+        "title": "Tell us what you need.",
+        "lead": "We typically reply within one business day across China / EMEA / US time zones.",
+        "name": "Full name",
+        "namePlaceholder": "Your full name",
+        "company": "Company",
+        "companyPlaceholder": "Company name",
+        "email": "Work email",
+        "emailPlaceholder": "you@company.com",
+        "phone": "Phone (optional)",
+        "phonePlaceholder": "+86 ...",
+        "interest": "Product interest",
+        "interestAny": "Any / not sure yet",
+        "department": "Department",
+        "message": "Message",
+        "messagePlaceholder": "Briefly describe your project, target spec, volume and timeline…",
+        "submit": "Send message",
+        "submitted": "Thanks — we'll be in touch within one business day.",
+        "invalid": "Please complete the required fields with valid values.",
+        "consent": "By submitting you agree to our privacy notice."
+      }
+    }
+  },
+  "sitemap": {
+    "heroTag": "Site map",
+    "heroTitle": "Every page on dynai.com.",
+    "heroSubtitle": "Grouped by section. If you're hunting for an SEO crawl, see the machine-readable sitemap.xml linked below.",
+    "breadcrumb": { "home": "Homepage", "current": "Sitemap" },
+    "xmlLabel": "Open the XML feed",
+    "groups": [
+      {
+        "title": "Company",
+        "items": [
+          { "href": "/about", "label": "About Dana", "description": "Company profile, founder, mission and history." },
+          { "href": "/rd", "label": "Research & Development", "description": "Platforms, equipment, partners and publications." },
+          { "href": "/newsletter", "label": "Dana Newsletter", "description": "Internal magazine archive." }
+        ]
+      },
+      {
+        "title": "Products",
+        "items": [
+          { "href": "/products", "label": "Product Centre", "description": "All 8 product families." },
+          { "href": "/products/13", "label": "Glycol Ethers & Acetate Solvents" },
+          { "href": "/products/14", "label": "Wet Electronic Chemicals" },
+          { "href": "/products/15", "label": "Double-Capped Polyethers" },
+          { "href": "/products/16", "label": "Ethylene Oxide & Admixture Monomers" },
+          { "href": "/products/17", "label": "Surfactants & Functional Products" },
+          { "href": "/products/18", "label": "Non-toxic Plasticisers" },
+          { "href": "/products/19", "label": "Brake Fluids & Base Fluids" },
+          { "href": "/products/20", "label": "Waterborne Resins & Coalescents" }
+        ]
+      },
+      {
+        "title": "Sustainability",
+        "items": [
+          { "href": "/sustainability/disclosure", "label": "Public information", "description": "Disclosure announcements and EIAs." },
+          { "href": "/sustainability/safety", "label": "Safe & environmentally friendly", "description": "Certifications and HSE KPI dashboard." },
+          { "href": "/sustainability/community", "label": "Charity activities", "description": "Project stories, NGO partners and gallery." }
+        ]
+      },
+      {
+        "title": "Newsroom",
+        "items": [
+          { "href": "/news", "label": "News Centre", "description": "Company updates, industry recognition and CSR." },
+          { "href": "/news/rss.xml", "label": "RSS feed", "description": "Subscribe in your reader.", "external": true }
+        ]
+      },
+      {
+        "title": "Join Us",
+        "items": [
+          { "href": "/careers", "label": "Talent Mechanism", "description": "Philosophy, development, benefits, day-in-life." },
+          { "href": "/jobs", "label": "Talent Recruitment", "description": "Campus + social roles, full hiring process." }
+        ]
+      },
+      {
+        "title": "Contact",
+        "items": [
+          { "href": "/contact", "label": "Contact us", "description": "Department contacts, facilities and inline form." }
+        ]
+      }
+    ]
   },
   "footer": {
     "qrCaption": "Scan",
@@ -155,7 +1669,30 @@
     "copyright": "© 2024 Jiangsu Dynai Chemical Co., Ltd. All rights reserved.",
     "icp": "ICP 05012787",
     "sitemap": "Sitemap",
-    "copyrightNotice": "Copyright Notice"
+    "copyrightNotice": "Copyright Notice",
+    "tagline": "Leaders in ethylene- and propylene-oxide derivatives since 2004. Built in Nanjing, trusted worldwide.",
+    "newsletterTitle": "Stay in the loop",
+    "newsletterDescription": "Product launches, R&D spotlights, and sustainability reports — delivered straight to your inbox. No spam.",
+    "newsletterPlaceholder": "you@company.com",
+    "newsletterSubmit": "Subscribe",
+    "newsletterLegal": "By subscribing you agree to our privacy policy.",
+    "followUs": "Follow us",
+    "contactHeading": "Talk to our team",
+    "downloadApp": "Download our mobile platform",
+    "backToTop": "Back to top",
+    "legal": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookie Preferences"
+    },
+    "networkSupport": "Network Support: Business Society Chemical Network",
+    "columns": {
+      "company": "Company",
+      "products": "Products",
+      "careers": "Careers",
+      "resources": "Resources",
+      "contact": "Contact"
+    }
   },
   "common": {
     "loading": "Loading…",
